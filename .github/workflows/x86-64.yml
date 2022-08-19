@@ -17,9 +17,9 @@ on:
 
 env:
   CONFIG_FILE: config/x86/64.config
-  SOURCE_URL: https://github.com/umarizulkifli/lede
-#  SOURCE_URL: https://github.com/immortalwrt/immortalwrt
-#  SOURCE_BRANCH: openwrt-18.06-k5.4
+#  SOURCE_URL: https://github.com/umarizulkifli/lede
+  SOURCE_URL: https://github.com/immortalwrt/immortalwrt
+  SOURCE_BRANCH: openwrt-18.06-k5.4
 #  SOURCE_BRANCH: openwrt-21.02
   SOURCE_BRANCH: master
   DIY_SH: scripts/custom.sh
